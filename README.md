@@ -1,5 +1,3 @@
-<img width="926" alt="Capture d'écran 2024-03-23 175532" src="https://github.com/Youssef-balh/Rental-Car/assets/113738047/f308b2ab-1714-449a-ab86-66e9ced7ff84"><img width="925" alt="Capture d'écran 2024-03-23 175519" src="https://github.com/Youssef-balh/Rental-Car/assets/113738047/687f6223-a4f1-4e4b-82af-1fe7105f4595"><img width="927" alt="Capture d'écran 2024-03-23 175505" src="https://github.com/Youssef-balh/Rental-Car/assets/113738047/d87e6ac2-e40d-4b8a-828a-f752b515e1bd"><img width="930" alt="Capture d'écran 2024-03-23 175658" src="https://github.com/Youssef-balh/Rental-Car/assets/113738047/6d69ca5e-03c4-4962-a127-44d6223ad09a"># Car Rental Management System
-
 This is a C# .NET Framework application with a MySQL database to manage car rental operations. It provides features for storing information about cars, clients, rentals, charges, and statistics.
 
 ## Features
@@ -34,7 +32,7 @@ To perform a backup, navigate to the backup section in the application and follo
 - MySQL database for storing information.
 
 
-| ![Capture d'écran 2024-03-23 175519](https://github.com/Youssef-balh/Rental-Car/assets/113738047/baf0677d-3002-4a97-8ab7-f2d9335f4a41) | ![Capture d'écran 2024-03-23 175505](https://github.com/Youssef-balh/Rental-Car/assets/113738047/143b4d57-5b0c-4811-863e-d22d27b6f95b) |
+| ![Capture d'écran 2024-03-23 175519] (https://github.com/Youssef-balh/Rental-Car/assets/113738047/143b4d57-5b0c-4811-863e-d22d27b6f95b) | ![Capture d'écran 2024-03-23 175505] (https://github.com/Youssef-balh/Rental-Car/assets/113738047/baf0677d-3002-4a97-8ab7-f2d9335f4a41)|
 | --- | --- |
 | ![Capture d'écran 2024-03-23 175658](https://github.com/Youssef-balh/Rental-Car/assets/113738047/b549e85a-0872-4f5f-958e-b670d3d3a0b4) | ![Capture d'écran 2024-03-23 175532](https://github.com/Youssef-balh/Rental-Car/assets/113738047/74dbedda-76a6-42d9-98af-bf634f59df1d) |
 
