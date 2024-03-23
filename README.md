@@ -32,7 +32,7 @@ To perform a backup, navigate to the backup section in the application and follo
 - MySQL database for storing information.
 
 
-| ![Capture d'écran 2024-03-23 175519] (https://github.com/Youssef-balh/Rental-Car/assets/113738047/143b4d57-5b0c-4811-863e-d22d27b6f95b) | ![Capture d'écran 2024-03-23 175505] (https://github.com/Youssef-balh/Rental-Car/assets/113738047/baf0677d-3002-4a97-8ab7-f2d9335f4a41)|
+| ![Capture d'écran 2024-03-23 175519](https://github.com/Youssef-balh/Rental-Car/assets/113738047/143b4d57-5b0c-4811-863e-d22d27b6f95b) | ![Capture d'écran 2024-03-23 175505](https://github.com/Youssef-balh/Rental-Car/assets/113738047/baf0677d-3002-4a97-8ab7-f2d9335f4a41)|
 | --- | --- |
 | ![Capture d'écran 2024-03-23 175658](https://github.com/Youssef-balh/Rental-Car/assets/113738047/b549e85a-0872-4f5f-958e-b670d3d3a0b4) | ![Capture d'écran 2024-03-23 175532](https://github.com/Youssef-balh/Rental-Car/assets/113738047/74dbedda-76a6-42d9-98af-bf634f59df1d) |
 
